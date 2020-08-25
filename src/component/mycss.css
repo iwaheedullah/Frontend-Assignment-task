@@ -1,0 +1,68 @@
+.Layout-syle{
+    margin-top: -14px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    ;
+}
+.Topbar-style{
+    background-color: rgb(3, 124, 194);
+}
+.Topbar-style h1{
+    color: #000000;
+    padding: 10px;
+    text-align: center;
+    letter-spacing: 2px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.slider-style{
+    text-align: center;
+    padding-top: 5px;
+    
+}
+
+.header-style h2{
+    color: rgb(255, 255, 255);
+    margin-left: 20px;
+    font-size: 15pt;
+    font-weight: bold;
+    float: left;
+  
+}
+.Datadisplay-style{
+    margin-top: 100px;
+    margin-left: 70px;
+    background-color: rgb(245, 245, 245);
+    margin-right: 70px;
+    padding:20px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.Datadisplay-style h1{
+    font-size: 20pt;
+    font-weight: bold;
+    
+}
+.footer-style{
+    text-align: right;
+   
+}
+.site-back-top-basic {
+    color: black;
+  }
+  .Cascader-style{
+      margin-left: 70px;
+    
+  }
+  Table{
+      width: 80%;;
+      margin-left: 70px;
+
+  }
+  tr, th, td {
+      border: 1px solid #ddd;
+      height:50px;
+      padding:10px;
+  }
+  th {
+    background-color: rgb(3, 124, 194);
+    color: white;
+  }
+ 
